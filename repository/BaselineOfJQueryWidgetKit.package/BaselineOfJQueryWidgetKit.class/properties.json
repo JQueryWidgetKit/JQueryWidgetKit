@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfJQueryWidgetKit",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfJQueryWidgetKit",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
